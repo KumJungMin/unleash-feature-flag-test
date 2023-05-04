@@ -1,0 +1,8 @@
+{
+  "name": "unleash-feature-flag-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KumJungMin/unleash-feature-flag-test",
+  "author": "KumJungMin <rmawjdals@naver.com>",
+  "license": "MIT"
+}
